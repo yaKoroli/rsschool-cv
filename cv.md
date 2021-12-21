@@ -52,6 +52,8 @@ while (n)
 ## Education:
 * I studied at the cool Sehriyo school and at the Polytechnic Lyceum
 
+![Image](https://github.com/yaKoroli/rsschool-cv/blob/gh-pages/geekBrains.PNG)
+
 ---
 
 ## Languages:
