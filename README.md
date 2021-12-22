@@ -1,2 +1,2 @@
 # rsschool-cv
-[Link](https://yakoroli.github.io/rsschool-cv/cv)
+[Link](https://yakoroli.github.io/rsschool-cv/)
