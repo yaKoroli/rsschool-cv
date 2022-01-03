@@ -1,4 +1,4 @@
 # rsschool-cv
-![CV.md] (https://yakoroli.github.io/rsschool-cv/cv)
+CV.md - https://yakoroli.github.io/rsschool-cv/cv
 
-![CV] (https://yakoroli.github.io/rsschool-cv/)
+CV layout - https://yakoroli.github.io/rsschool-cv/
