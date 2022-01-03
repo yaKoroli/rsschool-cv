@@ -1,0 +1,107 @@
+body {
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/* * {
+  box-sizing: border-box;
+} */
+
+.header {
+  background-color: aqua;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  list-style: none;
+
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+
+.nav-item {
+  text-decoration: none;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  box-shadow: 10px 10px 40px -1px rgb(0 0 0 / 23%);
+}
+
+.section {
+  width: 50%;
+}
+
+.section-title {
+  font-family: "Pushster", cursive;
+}
+
+.section-item a {
+  color: #829985;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.section-item a:hover {
+  color: #010c49;
+}
+.profile-name {
+  font-size: 30px;
+  font-weight: bold;
+}
+.avatar {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  border: 2px solid gray;
+}
+
+.footer {
+  height: 50px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.git-logo {
+  width: 70px;
+  height: 50px;
+}
+
+.rss-logo {
+  margin: 0 100px;
+  width: 70px;
+  height: 50px;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
